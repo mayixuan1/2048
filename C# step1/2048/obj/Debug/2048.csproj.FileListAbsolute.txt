@@ -1,0 +1,5 @@
+D:\vs2013project\SolutionBase\2048\bin\Debug\2048.exe.config
+D:\vs2013project\SolutionBase\2048\bin\Debug\2048.exe
+D:\vs2013project\SolutionBase\2048\bin\Debug\2048.pdb
+D:\vs2013project\SolutionBase\2048\obj\Debug\2048.exe
+D:\vs2013project\SolutionBase\2048\obj\Debug\2048.pdb
